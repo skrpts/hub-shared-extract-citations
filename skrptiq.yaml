@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "bc3188e2-966b-4fe2-b07c-58be4ff094cb"
+name: "extract-citations"
+display_name: "Extract Citations"
+description: "Identifies and formats citations from text into a consistent style"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-extract-citations"
+category: "shared"
+tags:
+  - "shared"
+  - "prompt"
+contents:
+  skills: 0
+  prompts: 1
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
