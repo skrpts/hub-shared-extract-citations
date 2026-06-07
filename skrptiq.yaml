@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "bc3188e2-966b-4fe2-b07c-58be4ff094cb"
+id: "22961d90-c212-4b1f-aaff-fff7b2eba88b"
 name: "extract-citations"
 display_name: "Extract Citations"
 description: "Identifies and formats citations from text into a consistent style"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
